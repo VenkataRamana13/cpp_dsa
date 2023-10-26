@@ -8,3 +8,4 @@ ll binary_search(ll n, ll *a, ll x){
       left = mid + 1; 
     else right = mid - 1; 
   return -1; 
+}
